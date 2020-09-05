@@ -4,3 +4,5 @@ List of relevant machine learning Google Colab documents created by me for emplo
 https://colab.research.google.com/drive/1xpEU26I8S0Ua02fJRqmqWFF4F6NgGWFC?usp=sharing
 
 https://colab.research.google.com/drive/1KMObS59oMZbsYzPWpqS9reAFeY_BdWLI?usp=sharing
+
+https://colab.research.google.com/drive/1lwnvtBcA4vAiL_plH0YK7ws3k_lLSPnb?usp=sharing
